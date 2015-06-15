@@ -144,6 +144,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [JTomlin's solution](https://github.com/JTomlin/project-euler) | [View in browser](https://htmlpreview.github.io/?https://github.com/JTomlin/project-euler/blob/master/index.html)
 * [Thulasi Arasu's solution](https://github.com/ThulasiA/javascript101-odinproject/blob/master/odin-javascript-problems.html) | [View in browser](https://rawgit.com/ThulasiA/javascript101-odinproject/master/odin-javascript-problems.html)
 * [Joseph McConnell's solution](https://github.com/JJMcConnell/TheOdinProject/tree/master/JavaScriptBasics)
+* [Ho Won Cheng's solution](https://github.com/chenghw/euler_problems)
 * Add your solution above this line!
 
 ## Additional Resources
